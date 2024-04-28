@@ -10,7 +10,7 @@ Pacman V.42 is a clone of the classic arcade pacman with some slight twists to u
 - Maximize your score in the least amount of gameplay possible in order to have the highest score per second
 ---
 ### Running
--> Make sure to have Go installed
+> Make sure to have Go installed
 ```bash
 git clone https://github.com/NickGalindo/Pacman
 cd Pacman
