@@ -56,7 +56,7 @@ func main() {
   a.Init()
 
   ebiten.SetWindowSize(460, 600)
-  ebiten.SetWindowTitle("Helol Worldo")
+  ebiten.SetWindowTitle("Pacman V.42")
   err = ebiten.RunGame(&Game{})
   if err != nil{
     log.Fatal(err)
