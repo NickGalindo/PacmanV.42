@@ -1,9 +1,11 @@
 # PACMAN V.42
 Pacman V.42 is a clone of the classic arcade pacman with some slight twists to up the difficulty
 
-![alt text](./imgs/start.png?raw=true "Start")
-![alt text](./imgs/gameplay.png?raw=true "Gameplay")
-![alt text](./imgs/winner.png?raw=true "Winner")
+<p align="middle">
+  <img src="./imgs/start.png" width="100" />
+  <img src="./imgs/gameplay.png" width="100" /> 
+  <img src="./imgs/winner.png" width="100" />
+</p>
 
 ---
 ### Gameplay
