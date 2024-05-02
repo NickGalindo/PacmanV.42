@@ -22,9 +22,9 @@ Pacman V.42 is a clone of the classic arcade pacman with some slight twists to u
 ### Running
 > Make sure to have Go installed
 ```bash
-git clone https://github.com/NickGalindo/Pacman
-cd Pacman
-go build -o Pacman.sh
-chmod +x Pacman.sh
-./Pacman.sh
+git clone https://github.com/NickGalindo/PacmanV.42.git
+cd PacmanV.42
+go build -o PacmanV42.sh
+chmod +x PacmanV42.sh
+./PacmanV42.sh
 ```
